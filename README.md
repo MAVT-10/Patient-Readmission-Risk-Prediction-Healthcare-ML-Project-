@@ -1,11 +1,11 @@
-## ▶️ Run the App
-
-```bash
-streamlit run src/app.py
-
 **Patient Readmission Risk Prediction (Healthcare ML Project)**
 **Overview**
 This project predicts whether a patient will be readmitted within 30 days using a real-world hospital dataset. It demonstrates an end-to-end machine learning workflow, from data preprocessing to deployment via an interactive web application.
+
+**Run the App**
+pip install -r requirements.txt
+```bash
+streamlit run src/app.py
 
 **Objective**
 To identify patients at risk of 30-day readmission and explore how machine learning can support early risk detection in healthcare settings.
