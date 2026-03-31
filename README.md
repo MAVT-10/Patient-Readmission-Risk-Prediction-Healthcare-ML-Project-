@@ -55,10 +55,14 @@ Features:
   - Simple risk explanation based on input factors
   - Probability-based risk categorization (Low / Moderate / High)
 
+**Demo**
+
+<img src="outputs/streamlit app.png" alt="Alt text" width="200">
+
 **Disclaimer**
 This is a simplified portfolio project and is not intended for clinical use. The model is trained on limited features and serves only as a demonstration of machine learning and deployment skills.
 
-Tech Stack
+**Tech Stack**  
   - Python
   - Pandas
   - Scikit-learn
